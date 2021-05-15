@@ -1,5 +1,7 @@
 **Project Summary**
 
+***AITND, Project 3***
+
 -Building a smart beta portfolio and comparing it to a benchmark index. 
 
 -Calculating the tracking error against the index. 
